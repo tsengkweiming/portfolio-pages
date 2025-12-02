@@ -10,8 +10,10 @@ By applying FFT analysis to the DJ’s audio,\
 I captured real-time characteristics in the low, mid, and high-frequency.\
 These values drove the generative visuals,
 producing dynamic real-time reactions synchronized with the music.
+## 📅 Date
+June, 2025
 ## 🎥 Demo Video
-<iframe width="100%" height="400" src="https://youtu.be/Xp4Q078MXng" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Xp4Q078MXng" frameborder="0" allowfullscreen></iframe>
 
 ## 🖼️ Images
 <img src="./Photos/img11.png" width="100%">
