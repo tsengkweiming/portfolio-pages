@@ -16,17 +16,17 @@ June, 2025
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/Xp4Q078MXng" frameborder="0" allowfullscreen></iframe>
 
 ## 🖼️ Images
-<img src="./Photos/img11.png" width="100%">
-<img src="./Photos/img9.png" width="100%">
-<img src="./Photos/img8.png" width="100%">
-<img src="./Photos/img2.png" width="100%">
-<img src="./Photos/img3.png" width="100%">
-<img src="./Photos/img4.png" width="100%">
-<img src="./Photos/img5.png" width="100%">
-<img src="./Photos/img6.png" width="100%">
-<img src="./Photos/img7.png" width="100%">
-<img src="./Photos/img10.png" width="100%">
-<img src="./Photos/img1.png" width="100%">
+<img src="./photos/img11.png" width="100%">
+<img src="./photos/img9.png" width="100%">
+<img src="./photos/img8.png" width="100%">
+<img src="./photos/img2.png" width="100%">
+<img src="./photos/img3.png" width="100%">
+<img src="./photos/img4.png" width="100%">
+<img src="./photos/img5.png" width="100%">
+<img src="./photos/img6.png" width="100%">
+<img src="./photos/img7.png" width="100%">
+<img src="./photos/img10.png" width="100%">
+<img src="./photos/img1.png" width="100%">
 
 ## Programming Languages
 C#/HLSL
