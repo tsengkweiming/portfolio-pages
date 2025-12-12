@@ -12,7 +12,7 @@ These values drove the generative visuals,
 producing dynamic real-time reactions synchronized with the music.
 
 ## 📅 Date
-June, 2025
+May 2025
 
 ## 🖼️ Images
 <img src="./photos/IMG1.jpg" width="100%">
